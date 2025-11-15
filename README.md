@@ -13,4 +13,4 @@ This is the second project of the fulltime Software Engineering program at Tripl
 
 ## Plan on improving the project
 
-Add your ideas here :)
+The project could include an additional menu card with a list of teas in the coffee shop's collection. The option to place orders for pick up or delivery via another service would be a big lift in business value for the shop.
